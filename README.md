@@ -1,0 +1,1 @@
+# futbetting-rabbitmq-example
