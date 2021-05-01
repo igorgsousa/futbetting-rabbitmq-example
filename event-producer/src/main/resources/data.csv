@@ -1,9 +1,9 @@
-1;5;Goal
-2;3;Penalty
-3;25;Throw-in
-4;13;Offside
-5;20;Goal kick
-6;15;Foul
-7;12;Corner kick
-8;5;Yellow Card
-9;2;Red Card
+1;2;Goal;true
+2;3;Penalty;false
+3;25;Throw-in;false
+4;14;Offside;false
+5;26;Goal kick;false
+6;15;Foul;false
+7;12;Corner kick;false
+8;2;Yellow Card;false
+9;1;Red Card;false
